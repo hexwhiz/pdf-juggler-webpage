@@ -2,12 +2,17 @@
   "redirects": [
     {
       "source": "/download/windows",
-      "destination": "https://www.google.com",
+      "destination": "https://github.com/kanha321/Upastithi/releases/download/2.0.0/Upasthiti-MCA-3rd.apk",
       "permanent": false
     },
     {
       "source": "/download/mac",
-      "destination": "https://link-to-mac.dmg",
+      "destination": "https://github.com/kanha321/Upastithi/releases/download/2.0.0/Upasthiti-MCA-3rd.apk",
+      "permanent": false
+    },
+    {
+      "source": "/download/linux",
+      "destination": "https://github.com/kanha321/Upastithi/releases/download/2.0.0/Upasthiti-MCA-3rd.apk",
       "permanent": false
     }
   ]
